@@ -1,3 +1,9 @@
-# cs_1sem
+# CS Assesments 
+## Arina K.
 
-per aspera ad astra
+_For never was a story of more woe than this...
+_
+(c) William Shakespeare (bapt.Tooltip baptised 26 April 1564 – 23 April 1616) was an English playwright, poet and actor. 
+He is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist.
+
+...than this of Juliet and her Romeo.
