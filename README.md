@@ -1,5 +1,4 @@
 # CS Assesments
-## Fall Semester 2023
 ### Arina K.
 
   _For never was a story of more woe than this..._
